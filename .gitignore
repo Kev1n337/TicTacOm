@@ -11,3 +11,9 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
+
+/resources/public/js
+/target
+/out/
+*.log
+app.iml
